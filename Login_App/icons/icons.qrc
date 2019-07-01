@@ -1,0 +1,10 @@
+<RCC>
+	<qresource>
+		<file>facebook.png</file>
+		<file>twitter.png</file>
+		<file>instagram.png</file>
+		<file>lock.png</file>
+		<file>login.png</file>
+		<file>024 Near Moon.png</file>
+	</qresource>
+</RCC>
